@@ -1,2 +1,2 @@
 # HashGame
-Hash game in Python
+Hash game in Python (learning Python)
